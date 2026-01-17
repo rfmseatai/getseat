@@ -46,28 +46,28 @@ export default function Home() {
         id: "s1",
         headline: "Text the restaurant.\nGet an answer.",
         copy:
-          "SeatAI replies to guest texts about hours, policies, and reservations so staff can stay on the floor.",
+          "SeatAI handles guest text messages about hours, policies, and reservations. Let your teams stay focused on service, not the phone.",
         theme: theme1,
       },
       {
         id: "s2",
         headline: "Fewer calls.\nFewer interruptions.",
         copy:
-          "Most messages are predictable. Automate the common ones and keep humans for edge cases.",
+          "Guests get help the moment they ask, and your team stays focused during service.",
         theme: theme2,
       },
       {
         id: "s3",
         headline: "Escalate cleanly\nwhen it matters.",
         copy:
-          "When a request is ambiguous or high-stakes, route it to a person with the full context.",
+          "SeatAI handles routine guest questions automatically and escalates only the requests that need human judgment, giving your team context without adding noise.",
         theme: theme3,
       },
       {
         id: "s4",
-        headline: "Built for real ops,\nnot demos.",
+        headline: "Never miss\na guest inquiry.",
         copy:
-          "Responses stay consistent with restaurant rules, not whatever the model feels like today.",
+          "SeatAI responds to incoming guest texts instantly, even when your team cannot, helping turn more questions into confirmed reservations.",
         theme: theme4,
       },
       {
