@@ -405,6 +405,15 @@ function LeadForm() {
       }
 
       setStatus("sent");
+      setForm({
+  name: "",
+  company: "",
+  email: "",
+  phone: "",
+  message: "",
+});
+setErrors({});
+
     } catch (err) {
       const msg =
         err && typeof err.message === "string" && err.message
