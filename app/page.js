@@ -615,8 +615,7 @@ const theme1 = {
 
 const theme2 = {
   // LEAF / AUTOMATION
-  //bg: "#0F6B43",
-  bg: "#CFE3FF", // soft sky blue (demo only)
+  bg: "#0F6B43",
   fg: "#F5FFF9",
   muted: "rgba(245,255,249,0.72)",
   card: "rgba(255,255,255,0.14)",
